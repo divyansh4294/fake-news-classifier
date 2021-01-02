@@ -43,5 +43,7 @@ We have used LSTM model.
 Each of the extracted features were used in all of the classifiers.
 Once fitting the model, we compared the accuracy and checked the confusion matrix.
 
+# Next To Do
 
-
+* We can apply Logistic Regression, SVM models
+* We can you hyperparameter tuning techniques to get better accuracy
